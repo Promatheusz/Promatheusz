@@ -8,7 +8,7 @@
 
 Hi there! 👋 I'm a student exploring the unknown path ahead. Cybersecurity intrigues me, but honestly, I'm still figuring out my career direction. I have time to decide until I graduate in 2027.
 
-The purpose of my GitHub activity is to **experiment, learn** by working on various projects. My focus shifts frequently as I balance trying new things with studying hard to succeed in school.
+The purpose of my GitHub activity is to **experiment, learn** by working on various projects. My focus shifts frequently as I balance trying new things with studying hard to succeed in school. My current school work keeps me quite busy.⛔ 
 
 Thank you for stopping by, and feel free to check out my journey as I navigate this exciting (and sometimes uncertain) road! 🚀
 
