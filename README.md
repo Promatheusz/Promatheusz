@@ -2,7 +2,7 @@
 
 ## 💬 Favorite Quote
 
-> “If you fail to plan, you are planning to fail!” - Benjamin Franklin
+> “Perfection is the enemy of progress.” - Winston Churchill
 
 ## 👩‍💻 About Me
 
@@ -32,20 +32,20 @@ Here are some tools and technologies I work with:
 ## 📂 Files  
 
 - 💾 [Configurations](#)
-- 📒 [Notes](#)  
 - 📚 [Documentations](#)  
-- 📑 [Reports](#)  
+- 📑 [Reports](#)
+- 📒 [Notes](#)  
 
 ---
 
 # 🔗 Let's Connect!  
 
 ## 🌐 Social Media  
+- 🐦 [X](https://x.com/Promatheuszek) 
 - 💼 [LinkedIn](https://linkedin.com/in/promatheusz)  
-- 🐦 [X](https://x.com/Promatheuszek)  
 - 🌍 [Portfolio](#)  
 
 ## ✨ Extras  
 
-- 🧠 Lifelong learner—progress, not perfection!  
-- 🛠️ Building skills one project at a time.
+- 🧠 Delegate work at the last minute so I can change my mind!  
+- 🛠️ Building skills one at a time.
