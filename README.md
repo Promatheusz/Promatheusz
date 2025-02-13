@@ -14,11 +14,12 @@ Hi there!👋 I am a student who discovers things as I go 🚀. Perfectionism is
 
 ## 🛠️ Projects Table
 
-|    Size / Language      | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| -------- | :-------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
-| Small | 1. [To-do List CLI application](https://github.com/Promatheusz/To-do-List-CLI-application) | |
-| Medium   | | |
-| Large | | |
+|    Size / Language      | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Java](https://img.shields.io/badge/Java-%23E34A86?style=flat-square&logo=oracle&logoColor=white) |
+| -------- | :-------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
+| Small | 1. [To-do List CLI application](https://github.com/Promatheusz/To-do-List-CLI-application) |  |  |
+| Medium   |  |  |  |
+| Large |  |  |  |
+
 
 
 
