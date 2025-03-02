@@ -16,7 +16,7 @@ I can be a bit lazy 😅, often doing just the bare minimum each day. But in the
 
 ## 🛠️ Projects Table
 
-| Category / Type            | Practice | Portfolio | Incomplete |
+| Category / Type            | Practice | Incomplete | Portfolio |
 |----------------------------|----------|-----------|------------|
 | ![Web-Dev](https://img.shields.io/badge/Web--Dev-%23007ACC) |  |  |  |
 | ![CyberSec](https://img.shields.io/badge/CyberSec-%23FF0033) |  |  |  |
