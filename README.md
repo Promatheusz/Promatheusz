@@ -6,7 +6,9 @@
 
 ## 👩‍💻 About Me
 
-Hi there!👋 I am a student who discovers things as I go 🚀. Perfectionism is an illusion 🎭. That’s why I’m never sure what I’m doing 🤷‍♂️, but I’m driven by curiosity 🔍 and a love of learning 📚. I love creating and learning at the same time 💡✨. I’m a bit lazy 😅 because I tend to do the minimum amount of tasks every day, but despite that, I try to achieve what I have planned ✅
+Hi there!👋 I'm a student who enjoys diving deep into theory rather than rushing into execution 🚀. I constantly remind myself that perfectionism is just an illusion 🎭. 
+Despite that, I strive to fail fast and learn from unfinished projects.
+I can be a bit lazy 😅, often doing just the bare minimum each day. But in the end, I still push forward to achieve what I’ve planned ✅
 
 ---
 
@@ -20,21 +22,12 @@ Hi there!👋 I am a student who discovers things as I go 🚀. Perfectionism is
 | Medium   |  |  |  |
 | Large |  |  |  |
 
-
-
-
-## 🎯 Tech Stack  
-
-Here are some tools and technologies I work with:  
-
-- 🐳 Docker  
-
 ---
 
 ## 📂 Files  
 
-- 💾 [Configurations](#)
-- 📑 [Reports](#)
+- 💾 [Config](#)
+- 📑 [Docs](#)
 - 📒 [Notes](#)  
 
 ---
@@ -42,11 +35,12 @@ Here are some tools and technologies I work with:
 # 🔗 Let's Connect!  
 
 ## 🌐 Social Media  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/promatheusz/) 
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Promatheuszek) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=world&logoColor=white)](#)  
 
 ## ✨ Extras  
 
-- 🧠 Delegate work at the last minute so I can change my mind!  
+- 🧠 A jack of all trades is master of none. 
+- 🐢 The turtle walks slowly but always makes it on time.
 - 🛠️ Building skills one at a time.
