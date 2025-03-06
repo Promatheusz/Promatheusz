@@ -15,18 +15,14 @@ I can be a bit lazy 😅, often doing just the bare minimum each day. But in the
 # 🖥️ Workspace
 
 ## 🛠️ Projects Table
-
-| Category / Type            | Practice | Incomplete | Portfolio |
-|----------------------------|----------|-----------|------------|
-| ![Web-Dev](https://img.shields.io/badge/Web--Dev-%23007ACC) |  |  |  |
-| ![CyberSec](https://img.shields.io/badge/CyberSec-%23FF0033) |  |  |  |
-| ![DevOps](https://img.shields.io/badge/DevOps%20%26%20Automation-%23FF8800) |  |  |  |
-| ![Data Science & AI/ML](https://img.shields.io/badge/Data%20Science%20%26%20AI/ML-%234B0082) | - [To-do List CLI application](https://github.com/Promatheusz/To-do-List-CLI-application) |  |  |
-| ![Mobile-Dev](https://img.shields.io/badge/Mobile%20Dev-%2300A86B) |  |  |  |
-| ![Game-Dev](https://img.shields.io/badge/Game%20Dev-%238B0000) |  |  |  |
-| ![Database Dev](https://img.shields.io/badge/Database%20Dev-%235D6D7E) |  |  |  |
-| ![Low-Level](https://img.shields.io/badge/Low--level%20Programming-%234B5320) |  |  |  |
-| ![Embedded-IoT](https://img.shields.io/badge/Embedded%20Systems%20%26%20IoT-%23E3C567) |  |  |  |
+ 
+| Tech Domain   | In Progress | Mini Projects | Full Projects | Portfolio | Tech Stack |
+|--------------|------------|--------------|--------------|------------|------------|
+| 🎨 **Front-End** |  |  |  |  | |
+| ⚙️ **Back-End** |  |  |  |  | |
+| 📊 **Data Science** |  | - [To-do List CLI application](https://github.com/Promatheusz/To-do-List-CLI-application) |  |  | |
+| 🤖 **AI/ML** |  |  |  |  |  |
+| 🔧 **Others** |  |  |  |  |  |
 
 ---
 
