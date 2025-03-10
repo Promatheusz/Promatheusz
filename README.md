@@ -17,13 +17,15 @@ I can be a bit lazy 😅, often doing just the bare minimum each day. But in the
 
 ## 🛠️ Projects Table
  
-| Tech Domain   | In Progress | Mini Projects | Full Projects | Portfolio | Tech Stack |
-|--------------|------------|--------------|--------------|------------|------------|
-| 🎨 **Front-End** |  |  |  |  | |
-| ⚙️ **Back-End** |  |  |  |  | |
-| 📊 **Data Science** |  | - [To-do List CLI application](https://github.com/Promatheusz/To-do-List-CLI-application) |  |  | |
-| 🤖 **AI/ML** |  |  |  |  |  |
-| 🔧 **Others** |  |  |  |  |  |
+| Tech Domain   | Portfolio | Mini Projects | Full Projects | In Progress |
+|--------------|------------|--------------|--------------|------------|
+| 🎨 **Front-End** |  |  |  |  |
+| ⚙️ **Back-End** |  |  |  |  |
+| 📊 **Data Science** |  | - [To-do List CLI application](https://github.com/Promatheusz/To-do-List-CLI-application) |  |  |
+| 🤖 **AI/ML** |  |  |  |  | 
+| 🔧 **Others** |  |  |  |  | 
+
+## ⚙️Tech stack 
 
 ## 📂 Files  
 
