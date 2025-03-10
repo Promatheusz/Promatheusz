@@ -19,9 +19,9 @@ I can be a bit lazy 😅, often doing just the bare minimum each day. But in the
  
 | Tech Domain   | Portfolio | Mini Projects | Full Projects | In Progress |
 |--------------|------------|--------------|--------------|------------|
-| 🎨 **Front-End** |  |  |  |  |
+| 🎨 **Front-End** |  |  |  | -[The Full Stack Web Developer Course](https://github.com/Promatheusz/The-Full-Stack-Web-Developer-Course) |
 | ⚙️ **Back-End** |  |  |  |  |
-| 📊 **Data Science** |  | - [To-do List CLI application](https://github.com/Promatheusz/To-do-List-CLI-application) |  |  |
+| 📊 **Data Science** |  | - [To-do List CLI application](https://github.com/Promatheusz/To-do-List-CLI-application) |  | -[The Python Pro Bootcamp Course](https://github.com/Promatheusz/The-Python-Pro-Bootcamp-Course) |
 | 🤖 **AI/ML** |  |  |  |  | 
 | 🔧 **Others** |  |  |  |  | 
 
