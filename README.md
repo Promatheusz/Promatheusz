@@ -17,11 +17,11 @@ I can be a bit lazy 😅, often doing just the bare minimum each day. But in the
 
 ## 🛠️ Projects Table
  
-| Tech Domain   | Portfolio | Full Projects | Mini Projects | In Progress |
-|--------------|------------|--------------|--------------|------------|
-| 📊 **Data Science** |  |  | - [To-do List CLI application](https://github.com/Promatheusz/To-do-List-CLI-application) | - [The Python Pro Bootcamp Course](https://github.com/Promatheusz/The-Python-Pro-Bootcamp-Course) |
+| Tech Domain   | Portfolio | Full Projects | Mini Projects |
+|--------------|------------|--------------|--------------|
+| 📊 **Data Science** |  |  | - [To-do List CLI application](https://github.com/Promatheusz/To-do-List-CLI-application) |
 | 🤖 **AI/ML** |  |  |  |  | 
-| 🔧 **Others** |  |  |  | - [The Full Stack Web Developer Course](https://github.com/Promatheusz/The-Full-Stack-Web-Developer-Course) | 
+| 🔧 **Others** |  |  |  |
 
 ## ⚙️Tech stack 
 
