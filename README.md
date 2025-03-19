@@ -27,6 +27,5 @@ I can be a bit lazy 😅, often doing just the bare minimum each day. But in the
 
 ## 📂 Files  
 
-- 💾 [Config](https://github.com/Promatheusz/Workspace/tree/main/Config)
 - 📑 [Docs](https://github.com/Promatheusz/Workspace/tree/main/Docs)
 - 📒 [Notes](https://github.com/Promatheusz/Workspace/tree/main/Notes)  
