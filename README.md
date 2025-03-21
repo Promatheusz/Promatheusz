@@ -24,8 +24,3 @@ I can be a bit lazy 😅, often doing just the bare minimum each day. But in the
 | 🔧 **Others** |  |  |  |
 
 ## ⚙️Tech stack 
-
-## 📂 Files  
-
-- 📑 [Docs](https://github.com/Promatheusz/Workspace/tree/main/Docs)
-- 📒 [Notes](https://github.com/Promatheusz/Workspace/tree/main/Notes)  
