@@ -4,9 +4,10 @@
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=world&logoColor=white)](#)  
 
 ## 👩‍💻 About Me
-Hi there!<br>
-I'm a student passionate about learning and experiencing life.<br>
-I enjoy exploring the world and meeting new people.
+Hi there! 👋<br>
+I’m a student majoring in Information and Technology 💻<br>
+In my free time, I enjoy reading books 📚<br>
+One of my favorite activities is spending time with friends 🤝
 
 ---
 
