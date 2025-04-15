@@ -5,9 +5,10 @@
 
 ## 👩‍💻 About Me
 Hi there! 👋<br>
-I’m a student majoring in Information and Technology 💻<br>
-In my free time, I enjoy reading books 📚<br>
-One of my favorite activities is spending time with friends 🤝
+I'm a student majoring in Information Technology 💻<br>
+In my free time, I enjoy reading books and working on small projects 📚<br>
+I use this GitHub account to track my school work and personal projects. 🎓<br>
+Feel free to explore my repositories! 📂
 
 ---
 
@@ -15,6 +16,11 @@ One of my favorite activities is spending time with friends 🤝
  
 | Portfolio | Program | Project |
 |------------|--------------|--------------|
-|  |  | - [To-do List CLI application](https://github.com/Promatheusz/To-do-List-CLI-application) |
+|  |  |  |
 
 ## ⚙️Tech stack 
+- Web Development  
+  - **CSS**  
+    - Bootstrap  
+  - **JavaScript**  
+    - jQuery
