@@ -16,8 +16,8 @@ Feel free to explore my repositories! 📂
  
 | Portfolio | Program | Project |
 |------------|--------------|--------------|
-|  |  |  |
-
+|  | [Python-capstone](https://github.com/Promatheusz/Python-capstone)|  |
+|  | [Web-capstone](https://github.com/Promatheusz/Web-capstone)|  |
 ## ⚙️Tech stack 
 - Web Development  
   - **CSS**  
