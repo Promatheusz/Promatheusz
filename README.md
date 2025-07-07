@@ -5,7 +5,7 @@
 
 ---
 
-## ❄️  Hello there !
+## 🤖 Hello there !
 
 **Oh no! Winter is coming.**  
 Don’t wait until you’re *buried in snow*.
@@ -29,13 +29,12 @@ Still worried? Open a pull request with a better excuse.
 
 ## 🪦  My gran can do better! (And she’s dead)
 
-That’s the bar I aim to clear in every line of code—and copy.  
-If you spot something she’d improve, file an issue.
-
+Nothing worth mentioning… unless humanity counts.
 <br>
 
 ## 🤝  Friends
 
+But nobody came.
 <br>
 
 *Let me know if you find any reference. You can find me on LinkedIn.*
