@@ -1,8 +1,8 @@
 # The world is flat 🌍
 
-[![Proves](https://img.shields.io/badge/Proves-%2338A169%20%7C%20%238B4513%20%7C%203187C1?style=for-the-badge)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge)](https://your-blog.example.com)
+[![Proves](https://img.shields.io/badge/Proves-1E3A8A?style=for-the-badge&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![Blog](https://img.shields.io/badge/Blog-38BDF8?style=for-the-badge&logoColor=white)](https://your-blog.example.com)
 
 ## 🧔 Hello there !
 
