@@ -26,7 +26,7 @@ Still worried? Open a pull request with a better excuse.
 
 <br>
 
-## 🪦  My gran can do better! (And she’s dead)
+## 🪦  My grandmother can do better! (And she’s dead)
 
 Nothing worth mentioning… unless humanity counts.
 
