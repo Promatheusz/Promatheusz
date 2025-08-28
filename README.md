@@ -30,11 +30,10 @@ Relax. I paid the fines with Monopoly money.
 |:--------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|
 | **[Snake Game](https://github.com/Promatheusz/Snake-game)**                                               | **[To-Do List](https://github.com/Promatheusz/To-do-List-CLI-application)**                                               |
 
-
-
-Still worried? Open a pull request with a better excuse.
-
 <br>
+
+Still worried? Open a **pull request** with a better excuse.
+
 
 ## 🪦  My grandmother can do better! (And she's dead)
 
