@@ -22,6 +22,15 @@ I've hidden a pinch on the homepage - one click and you'll *fly away to another 
 
 Relax. I paid the fines with Monopoly money. 
 
+| <a href="https://github.com/Promatheusz/Simplify-15-game"><img src="./assets/simplify-15-game.png" width="200"/></a> | <a href="https://github.com/Promatheusz/Simon-game"><img src="./assets/simon-game.png" width="200"/></a> |
+|:--------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
+| **[Simplify 15 Game](https://github.com/Promatheusz/Simplify-15-game)**                                              | **[Simon Game](https://github.com/Promatheusz/Simon-game)**                                            |
+
+| <a href="https://github.com/Promatheusz/Snake-game"><img src="./assets/snake-game.png" width="200"/></a> | <a href="https://github.com/Promatheusz/To-do-List-CLI-application"><img src="./assets/to-do-list.png" width="200"/></a> |
+|:--------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|
+| **[Snake Game](https://github.com/Promatheusz/Snake-game)**                                               | **[To-Do List](https://github.com/Promatheusz/To-do-List-CLI-application)**                                               |
+
+
 Still worried? Open a pull request with a better excuse.
 
 <br>
