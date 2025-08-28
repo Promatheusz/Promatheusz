@@ -14,9 +14,8 @@ It won't even pause to read [my blog](https://mateusz-szczerbiak.com/) before it
 
 **Your escape plan? Pixie-dust.**  
 I've hidden a pinch on the homepage - one click and you'll *fly away to another planet*.
-
-> *Keep it between us; my friends still think I was left with nothing.*
 <br>
+> *Keep it between us; my friends still think I was left with nothing.*
 
 ## 📚  You missed the deadline to return books to the library
 
