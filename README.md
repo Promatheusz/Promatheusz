@@ -10,7 +10,7 @@
 Don't wait until you're *buried in snow*.
 
 **Skynet is inevitable.**  
-It won't even pause to read [my blog](https://mateusz-szczerbiak.com/) before it boots up and *destroys us*.
+It won't even pause to read my blog before it boots up and *destroys us*.
 
 **Your escape plan? Pixie-dust.**  
 I've hidden a pinch on the homepage - one click and you'll *fly away to another planet*.
